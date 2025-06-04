@@ -109,4 +109,3 @@ Hyperparameter tuning was performed using `GridSearchCV`.
 ```bash
 git clone https://github.com/your-username/pneumonia-classification.git
 cd pneumonia-classification
-pip install -r requirements.txt
